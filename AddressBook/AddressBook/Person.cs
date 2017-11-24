@@ -26,6 +26,7 @@ namespace AddressBook
 
         }
 
+
         public void Initialize()
         {
             PrivateEcample = false;
